@@ -1,0 +1,14 @@
+# Fichiers générés automatiquement à l'exécution — ne pas pousser
+bibliotheque.txt
+utilisateurs.txt
+historique.txt
+
+# Exécutables compilés
+biblio
+biblio.exe
+*.o
+*.out
+
+# Fichiers systèmes
+.DS_Store
+Thumbs.db
